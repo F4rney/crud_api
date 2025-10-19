@@ -1,0 +1,6 @@
+com\br\farney\crudapi\model\Pessoa.class
+com\br\farney\crudapi\dto\PessoaDTO.class
+com\br\farney\crudapi\CrudapiApplication.class
+com\br\farney\crudapi\controller\PessoaController.class
+com\br\farney\crudapi\repository\PessoaRepository.class
+com\br\farney\crudapi\model\Materias.class
